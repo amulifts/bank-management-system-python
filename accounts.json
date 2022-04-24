@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "name": "Elon Musk",
+      "PIN": 2272,
+      "acc_number": 1,
+      "acc_balance": 1960000
+    },
+    {
+      "name": "Surya Basnet",
+      "PIN": 7001,
+      "acc_number": 2,
+      "acc_balance": 600700
+    },
+    {
+      "name": "Prajwol Kafle",
+      "PIN": 2001,
+      "acc_number": 3,
+      "acc_balance": 0
+    },
+    {
+      "name": "Piyush Osti",
+      "PIN": 1999,
+      "acc_number": 4,
+      "acc_balance": 400300
+    },
+    {
+      "name": "Grusha Bhattarai",
+      "PIN": 1301,
+      "acc_number": 5,
+      "acc_balance": 146690
+    },
+    {
+      "name": "Aman Khadka",
+      "PIN": 1100,
+      "acc_number": 6,
+      "acc_balance": 0
+    }
+  ]
+}
